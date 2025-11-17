@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/logodbr/static/css/main.0728da61.css",
-    "main.js": "/logodbr/static/js/main.9011f535.js",
-    "index.html": "/logodbr/index.html",
-    "main.0728da61.css.map": "/logodbr/static/css/main.0728da61.css.map",
-    "main.9011f535.js.map": "/logodbr/static/js/main.9011f535.js.map"
+    "main.css": "/dribledbr/static/css/main.2fb61184.css",
+    "main.js": "/dribledbr/static/js/main.5b80d10a.js",
+    "index.html": "/dribledbr/index.html",
+    "main.2fb61184.css.map": "/dribledbr/static/css/main.2fb61184.css.map",
+    "main.5b80d10a.js.map": "/dribledbr/static/js/main.5b80d10a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0728da61.css",
-    "static/js/main.9011f535.js"
+    "static/css/main.2fb61184.css",
+    "static/js/main.5b80d10a.js"
   ]
 }
