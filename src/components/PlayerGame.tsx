@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Jogador, GameState } from '../types/Jogador';
 import './PlayerGame.css';
 
@@ -30,6 +30,8 @@ const PlayerGame: React.FC<PlayerGameProps> = ({
   const [feedback, setFeedback] = useState<string>('');
   const [suggestions, setSuggestions] = useState<string[]>([]);
   const [isProcessing, setIsProcessing] = useState<boolean>(false);
+  const [currentHintIndex, setCurrentHintIndex] = useState<number>(0);
+  const previousHintsCountRef = useRef<number>(0);
 
   // Obtém os escudos dos clubes do jogador
   const clubesEscudos = (): string[] => {
@@ -193,11 +195,79 @@ const PlayerGame: React.FC<PlayerGameProps> = ({
     }
   };
 
+  // Função para obter todas as dicas disponíveis baseadas no número de tentativas
+  const getAvailableHints = (): string[] => {
+    const hints: string[] = [];
+    const currentAttempt = gameState.attempts;
+    
+    // Tentativa 2 (attempts = 1): data de nascimento - Dica 1
+    if (currentAttempt >= 1) {
+      hints.push(`💡 Dica 1 - Data de nascimento: ${jogador.data_nascimento}`);
+    }
+    
+    // Tentativa 3 (attempts = 2): posição - Dica 2
+    if (currentAttempt >= 2) {
+      hints.push(`💡 Dica 2 - Posição: ${jogador.posicao_principal}`);
+    }
+    
+    // Tentativa 4 (attempts = 3): nacionalidade - Dica 3
+    if (currentAttempt >= 3) {
+      hints.push(`💡 Dica 3 - Nacionalidade: ${jogador.nacionalidade}`);
+    }
+    
+    // Tentativa 5 (attempts = 4): inicial do nome esportivo - Dica 4
+    if (currentAttempt >= 4) {
+      const primeiraLetra = jogador.nome_esportivo.charAt(0).toUpperCase();
+      hints.push(`💡 Dica 4 - Inicial do nome: ${primeiraLetra}`);
+    }
+    
+    return hints;
+  };
+
   useEffect(() => {
     resetGame();
+    setCurrentHintIndex(0);
+    previousHintsCountRef.current = 0;
   }, [jogador.jogador_id]);
 
+  // Atualizar o índice quando novas dicas ficarem disponíveis
+  useEffect(() => {
+    const availableHints = getAvailableHints();
+    const currentHintsCount = availableHints.length;
+    const previousCount = previousHintsCountRef.current;
+    
+    // Se uma nova dica foi desbloqueada, ir automaticamente para a última dica
+    if (currentHintsCount > previousCount && currentHintsCount > 0) {
+      setCurrentHintIndex(currentHintsCount - 1);
+    }
+    // Se o índice atual for maior que o número de dicas disponíveis, ajustar
+    else {
+      setCurrentHintIndex((prevIndex) => {
+        if (prevIndex >= currentHintsCount && currentHintsCount > 0) {
+          return currentHintsCount - 1;
+        }
+        return prevIndex;
+      });
+    }
+    
+    // Atualizar o contador anterior
+    previousHintsCountRef.current = currentHintsCount;
+  }, [gameState.attempts]);
+
+  // Função para navegar para a dica anterior
+  const goToPreviousHint = () => {
+    setCurrentHintIndex((prev) => Math.max(0, prev - 1));
+  };
+
+  // Função para navegar para a próxima dica
+  const goToNextHint = () => {
+    const availableHints = getAvailableHints();
+    setCurrentHintIndex((prev) => Math.min(availableHints.length - 1, prev + 1));
+  };
+
   const escudos = clubesEscudos();
+  const availableHints = getAvailableHints();
+  const currentHint = availableHints.length > 0 ? availableHints[currentHintIndex] : null;
 
   return (
     <div className="player-game">
@@ -226,6 +296,34 @@ const PlayerGame: React.FC<PlayerGameProps> = ({
           </div>
           {!gameState.showPlayer && (
             <div className="attempts-indicator">
+              {availableHints.length > 0 && (
+                <div className="hint-carousel">
+                  <button
+                    className="hint-nav-button hint-prev"
+                    onClick={goToPreviousHint}
+                    disabled={currentHintIndex === 0}
+                    aria-label="Dica anterior"
+                  >
+                    ‹
+                  </button>
+                  <div className="hint-content">
+                    <p className="hint-text">{currentHint}</p>
+                    {availableHints.length > 1 && (
+                      <p className="hint-counter">
+                        {currentHintIndex + 1} / {availableHints.length}
+                      </p>
+                    )}
+                  </div>
+                  <button
+                    className="hint-nav-button hint-next"
+                    onClick={goToNextHint}
+                    disabled={currentHintIndex === availableHints.length - 1}
+                    aria-label="Próxima dica"
+                  >
+                    ›
+                  </button>
+                </div>
+              )}
               <p>Tentativa {Math.min(gameState.attempts + 1, 5)} de 5</p>
             </div>
           )}
