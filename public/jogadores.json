@@ -943,8 +943,9 @@
         "clube4": "/times/São_Paulo.png",
         "clube5": "/times/Ponte_Preta.png",
         "clube6": "/times/Chapecoense.png",
-        "clube7": "/times/Grêmio.svg",
-        "clube8": "/times/Mirassol.png"
+        "clube7": "/times/São_Paulo.png",
+        "clube8": "/times/Grêmio.svg",
+        "clube9": "/times/Mirassol.png"
       }
     },
     {
@@ -2560,7 +2561,7 @@
       "nome_completo": "Manoel Francisco dos Santos",
       "nome_esportivo": "Garrincha",
       "nacionalidade": "Brasil",
-      "data_nascimento": "28/10/1962",
+      "data_nascimento": "28/10/1933",
       "idade": 49,
       "altura_m": 1.69,
       "posicao_principal": "Atacante",
@@ -3029,21 +3030,329 @@
     },
     {
       "jogador_id": 149,
-      "nome_completo": "Francesc Fàbregas Soler",
-      "nome_esportivo": "Fabregas",
-      "nacionalidade": "Espanha",
-      "data_nascimento": "04/05/1987",
+      "nome_completo": "Leônidas da Silva",
+      "nome_esportivo": "Leônidas da Silva",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "06/09/1913",
+      "idade": 90,
+      "altura_m": 1.65,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Leonidas.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Bonsucesso.png",
+        "clube2": "/times/Penãrol.svg",
+        "clube3": "/times/Vasco.png",
+        "clube4": "/times/SCBrasil.png",
+        "clube5": "/times/Botafogo.png",
+        "clube6": "/times/Flamengo.png",
+        "clube7": "/times/São_Paulo.png"
+      }
+    },
+    {
+      "jogador_id": 150,
+      "nome_completo": "Washington Stecanela Cerqueira",
+      "nome_esportivo": "Washington ",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "01/04/1975",
+      "idade": 50,
+      "altura_m": 1.90,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Washington.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Caxias.svg",
+        "clube2": "/times/Internacional.svg",
+        "clube3": "/times/Ponte_Preta.png",
+        "clube4": "/times/Paraná.png",
+        "clube5": "/times/Ponte_Preta.png",
+        "clube6": "/times/Fenerbahçe.png",
+        "clube7": "/times/Athletico_Paranaense.svg",
+        "clube8": "/times/Tokyo_Verdy.png",
+        "clube9": "/times/Urawa_Red.png",
+        "clube10": "/times/Fluminense.png",
+        "clube11": "/times/São_Paulo.png",
+        "clube12": "/times/Fluminense.png"
+      }
+    },
+    {
+      "jogador_id": 151,
+      "nome_completo": "Jan Koller",
+      "nome_esportivo": "Koller ",
+      "nacionalidade": "República Tcheca",
+      "data_nascimento": "30/03/1973",
+      "idade": 52,
+      "altura_m": 2.02,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Koller.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Sparta_Praga.svg",
+        "clube2": "/times/Lokeren.png",
+        "clube3": "/times/Anderlecht.png",
+        "clube4": "/times/Borussia_Dortmund.svg",
+        "clube5": "/times/Monaco.png",
+        "clube6": "/times/Nuremberg.svg",
+        "clube7": "/times/Krylia_Sovetov.png",
+        "clube8": "/times/Cannes.svg"
+      }
+    },
+    {
+      "jogador_id": 152,
+      "nome_completo": "Arturo Erasmo Vidal Pardo",
+      "nome_esportivo": "Vidal ",
+      "nacionalidade": "Chile",
+      "data_nascimento": "22/05/1987",
       "idade": 38,
       "altura_m": 1.80,
-      "posicao_principal": "Meio-campo",
-      "foto_perfil": "/jogadores/Fabregas.jpg",
+      "posicao_principal": "Volante",
+      "foto_perfil": "/jogadores/Vidal.jpg",
       "imagens_clubes": {
-        "clube1": "/times/Arsenal.svg",
-        "clube2": "/times/Barcelona.svg",
-        "clube3": "/times/Chelsea.svg",
-        "clube4": "/times/Monaco.png",
-        "clube5": "/times/Como.svg"
+        "clube1": "/times/Colo_Colo.png",
+        "clube2": "/times/Bayer_Leverkusen.png",
+        "clube3": "/times/Juventus.svg",
+        "clube4": "/times/Bayern_Munique.svg",
+        "clube5": "/times/Barcelona.svg",
+        "clube6": "/times/Internazionale.svg",
+        "clube7": "/times/Flamengo.png",
+        "clube8": "/times/Athletico_Paranaense.svg",
+        "clube9": "/times/Colo_Colo.png"
       }
+    },
+    {
+      "jogador_id": 153,
+      "nome_completo": "Jacob Harry Maguire",
+      "nome_esportivo": "Maguire ",
+      "nacionalidade": "Inglaterra",
+      "data_nascimento": "05/03/1993",
+      "idade": 32,
+      "altura_m": 1.94,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Maguire.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Sheffield_United.png",
+        "clube2": "/times/Hull_City.png",
+        "clube3": "/times/Wigan.png",
+        "clube4": "/times/Leicester.png",
+        "clube5": "/times/Manchester_United.png"
+      }
+    },
+    {
+      "jogador_id": 154,
+      "nome_completo": "Rafael Augusto Sóbis",
+      "nome_esportivo": "Rafael Sóbis ",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "17/06/1985",
+      "idade": 40,
+      "altura_m": 1.72,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Rafael_Sobis.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Internacional.svg",
+        "clube2": "/times/Betis.png",
+        "clube3": "/times/Al_Jazira.png",
+        "clube4": "/times/Internacional.svg",
+        "clube5": "/times/Al_Jazira.png",
+        "clube6": "/times/Fluminense.png",
+        "clube7": "/times/Tigres.png",
+        "clube8": "/times/Cruzeiro.png",
+        "clube9": "/times/Internacional.svg",
+        "clube10": "/times/Ceará.svg",
+        "clube11": "/times/Cruzeiro.png"
+      }
+    },
+    {
+      "jogador_id": 155,
+      "nome_completo": "Armelino Donizete Quagliato",
+      "nome_esportivo": "Zetti ",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "10/01/1965",
+      "idade": 60,
+      "altura_m": 1.89,
+      "posicao_principal": "Goleiro",
+      "foto_perfil": "/jogadores/Zetti.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Palmeiras.svg",
+        "clube2": "/times/Toledo.png",
+        "clube3": "/times/Londrina.png",
+        "clube4": "/times/Palmeiras.svg",
+        "clube5": "/times/São_Paulo.png",
+        "clube6": "/times/Santos.png",
+        "clube7": "/times/Fluminense.png",
+        "clube8": "/times/União_Barbarense.png",
+        "clube9": "/times/Sport_Recife.png"
+      }
+    },
+    {
+      "jogador_id": 156,
+      "nome_completo": "José Vítor Roque Júnior",
+      "nome_esportivo": "Roque Júnior",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "31/08/1976",
+      "idade": 49,
+      "altura_m": 1.86,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Roque_Junior.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Santarritense.png",
+        "clube2": "/times/SJC.png",
+        "clube3": "/times/Palmeiras.svg",
+        "clube4": "/times/Milan.png",
+        "clube5": "/times/Leeds.png",
+        "clube6": "/times/Siena.png",
+        "clube7": "/times/Bayer_Leverkusen.png",
+        "clube8": "/times/Duisburg.png",
+        "clube9": "/times/Al_Rayyan.png",
+        "clube10": "/times/Palmeiras.svg",
+        "clube11": "/times/Ituano.png"
+      }
+    },
+    {
+      "jogador_id": 157,
+      "nome_completo": "Son Heung-min",
+      "nome_esportivo": "Son",
+      "nacionalidade": "Coréia do Sul",
+      "data_nascimento": "08/07/1992",
+      "idade": 33,
+      "altura_m": 1.83,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Son.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Hamburgo.svg",
+        "clube2": "/times/Bayer_Leverkusen.png",
+        "clube3": "/times/Tottenham.png",
+        "clube4": "/times/Los_Angeles_FC.svg"
+      }
+    },
+    {
+      "jogador_id": 158,
+      "nome_completo": "Robert Abel Arboleda Escobar",
+      "nome_esportivo": "Arboleda",
+      "nacionalidade": "Equador",
+      "data_nascimento": "22/10/1991",
+      "idade": 34,
+      "altura_m": 1.87,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Arboleda.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Olmedo.png",
+        "clube2": "/times/Deportivo_Cañar.png",
+        "clube3": "/times/LDU.png",
+        "clube4": "/times/UniversidadCatólica.png",
+        "clube5": "/times/São_Paulo.png"
+      }
+    },
+    {
+      "jogador_id": 159,
+      "nome_completo": "Bernard Anício Caldeira Duarte",
+      "nome_esportivo": "Bernard",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "08/09/1992",
+      "idade": 33,
+      "altura_m": 1.64,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Bernard.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Atlético_Mineiro.png",
+        "clube2": "/times/Democrata_de_Sete_Lagoas.svg",
+        "clube3": "/times/Atlético_Mineiro.png",
+        "clube4": "/times/Shakhtar_Donetsk.png",
+        "clube5": "/times/Everton.png",
+        "clube6": "/times/Sharjah_FC.png",
+        "clube7": "/times/Panathinaikos.png",
+        "clube8": "/times/Atlético_Mineiro.png"
+      }
+    },
+    {
+      "jogador_id": 160,
+      "nome_completo": "Thiago Emiliano da Silva",
+      "nome_esportivo": "Thiago Silva",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "22/09/1984",
+      "idade": 41,
+      "altura_m": 1.81,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Thiago_Silva.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/RS_Futebol.png",
+        "clube2": "/times/Juventude.svg",
+        "clube3": "/times/Porto.png",
+        "clube4": "/times/Dynamo_Moscow.png",
+        "clube5": "/times/Fluminense.png",
+        "clube6": "/times/Milan.png",
+        "clube7": "/times/PSG.png",
+        "clube8": "/times/Chelsea.svg",
+        "clube9": "/times/Fluminense.png"
+      } 
+    },
+    {
+      "jogador_id": 161,
+      "nome_completo": "Mário Jorge Lobo Zagallo",
+      "nome_esportivo": "Zagallo",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "09/08/1931",
+      "idade": 92,
+      "altura_m": 1.72,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Zagallo.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Flamengo.png",
+        "clube2": "/times/Botafogo.png"
+      } 
+    },
+    {
+      "jogador_id": 162,
+      "nome_completo": "Gerard Piqué Bernabéu",
+      "nome_esportivo": "Pique",
+      "nacionalidade": "Espanha",
+      "data_nascimento": "02/02/1987",
+      "idade": 38,
+      "altura_m": 1.94,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Pique.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Manchester_United.png",
+        "clube2": "/times/Zaragoza.png",
+        "clube3": "/times/Manchester_United.png",
+        "clube4": "/times/Barcelona.svg"
+      } 
+    },
+    {
+      "jogador_id": 163,
+      "nome_completo": "Andreas Hugo Hoelgebaum Pereira",
+      "nome_esportivo": "Andreas Pereira",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "01/01/1996",
+      "idade": 29,
+      "altura_m": 1.78,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Andreas_Pereira.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Manchester_United.png",
+        "clube2": "/times/Granada.png",
+        "clube3": "/times/Valencia.png",
+        "clube4": "/times/Lazio.png",
+        "clube5": "/times/Flamengo.png",
+        "clube6": "/times/Fulham.svg",
+        "clube7": "/times/Palmeiras.svg"
+      } 
+    },
+    {
+      "jogador_id": 164,
+      "nome_completo": "Antônio Augusto Ribeiro Reis Júnior",
+      "nome_esportivo": "Juninho Pernambucano",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "30/01/1975",
+      "idade": 50,
+      "altura_m": 1.78,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Juninho_Pernambucano.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Sport_Recife.png",
+        "clube2": "/times/Vasco.png",
+        "clube3": "/times/Lyon.png",
+        "clube4": "/times/Al_Gharrafa.png",
+        "clube5": "/times/Vasco.png",
+        "clube6": "/times/Red_Bull_New_York.png",
+        "clube7": "/times/Vasco.png"
+      } 
     }
   ]
 }
