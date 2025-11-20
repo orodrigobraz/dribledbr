@@ -33,6 +33,21 @@ const PlayerGame: React.FC<PlayerGameProps> = ({
   const [currentHintIndex, setCurrentHintIndex] = useState<number>(0);
   const previousHintsCountRef = useRef<number>(0);
 
+  // Função para extrair o nome do clube a partir do caminho da imagem
+  const getClubName = (imagePath: string): string => {
+    // Extrair o nome do arquivo do caminho
+    const fileName = imagePath.split('/').pop() || '';
+    // Remover a extensão (.svg, .png, .jpg, .jpeg, .gif, .webp, .bmp, etc.)
+    const nameWithoutExt = fileName.replace(/\.(svg|png|jpg|jpeg|gif|webp|bmp|ico)$/i, '');
+    // Substituir underscores por espaços
+    const nameWithSpaces = nameWithoutExt.replace(/_/g, ' ');
+    // Capitalizar primeira letra de cada palavra
+    return nameWithSpaces
+      .split(' ')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+      .join(' ');
+  };
+
   // Obtém os escudos dos clubes do jogador
   const clubesEscudos = (): string[] => {
     const escudos: string[] = [];
@@ -278,15 +293,19 @@ const PlayerGame: React.FC<PlayerGameProps> = ({
             <div className="clubs-grid">
               {escudos.map((escudo, index) => (
                 <div key={index} className="club-item">
-                  <img
-                    src={process.env.PUBLIC_URL + escudo}
-                    alt={`Escudo do clube ${index + 1}`}
-                    className="club-image"
-                    onError={(e) => {
-                      const target = e.target as HTMLImageElement;
-                      target.style.display = 'none';
-                    }}
-                  />
+                  <div className="club-image-wrapper">
+                    <img
+                      src={process.env.PUBLIC_URL + escudo}
+                      alt={`Escudo do clube ${index + 1}`}
+                      className="club-image"
+                      title={getClubName(escudo)}
+                      onError={(e) => {
+                        const target = e.target as HTMLImageElement;
+                        target.style.display = 'none';
+                      }}
+                    />
+                    <span className="club-tooltip">{getClubName(escudo)}</span>
+                  </div>
                   {index < escudos.length - 1 && (
                     <div className="club-arrow">→</div>
                   )}

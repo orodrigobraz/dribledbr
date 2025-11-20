@@ -68,6 +68,11 @@
   gap: 20px;
 }
 
+.club-image-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
 .club-image {
   width: 150px;
   height: 150px;
@@ -77,6 +82,46 @@
   background-color: rgba(255, 255, 255, 0.95);
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
   box-sizing: border-box;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.club-image:hover {
+  transform: scale(1.05);
+}
+
+.club-tooltip {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-10px);
+  background-color: rgba(0, 0, 0, 0.9);
+  color: #ffffff;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.club-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: rgba(0, 0, 0, 0.9);
+}
+
+.club-image-wrapper:hover .club-tooltip {
+  opacity: 1;
+  transform: translateX(-50%) translateY(-5px);
 }
 
 .club-arrow {
@@ -449,6 +494,11 @@
   .club-image {
     width: 120px;
     height: 120px;
+  }
+
+  .club-tooltip {
+    font-size: 0.8rem;
+    padding: 6px 10px;
   }
 
   .clubs-grid {
