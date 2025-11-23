@@ -137,45 +137,27 @@ const PlayerGame: React.FC<PlayerGameProps> = ({
       return;
     }
 
-    // Se houver um palpite, validar
+    // Se houver um palpite, validar apenas contra o nome_esportivo
     const normalizedGuess = normalizeName(rawGuess);
-    const normalizedCorrectName = normalizeName(jogador.nome_completo);
     const normalizedEsportivo = normalizeName(jogador.nome_esportivo);
 
-    // Verifica se o palpite corresponde ao nome_esportivo ou ao nome_completo
-    // Prioriza correspondência exata e evita aceitar apenas sobrenomes
+    // Verifica se o palpite corresponde ao nome_esportivo
     const esportivoWords = normalizedEsportivo.split(' ').filter(w => w.length > 0);
-    const correctWords = normalizedCorrectName.split(' ').filter(w => w.length > 0);
     const guessWords = normalizedGuess.split(' ').filter(w => w.length > 0);
     
-    // Primeiro nome do esportivo e do completo (para validação)
+    // Primeiro nome do esportivo (para validação)
     const primeiroNomeEsportivo = esportivoWords[0] || '';
-    const primeiroNomeCompleto = correctWords[0] || '';
     const primeiroNomeGuess = guessWords[0] || '';
     
     // 1. Verifica se o palpite corresponde exatamente ao nome_esportivo
     const matchesEsportivoExact = normalizedGuess === normalizedEsportivo;
     
-    // 2. Verifica se o palpite corresponde exatamente ao nome_completo
-    const matchesFullNameExact = normalizedGuess === normalizedCorrectName;
-    
-    // 3. Verifica se o nome_esportivo contém o palpite
-    // Aceita se: (a) o palpite começa com o primeiro nome do esportivo OU (b) o palpite é uma palavra completa do esportivo
+    // 2. Verifica se o nome_esportivo contém o palpite
     const esportivoContainsGuess = normalizedEsportivo.includes(normalizedGuess) && 
                                    normalizedGuess.length >= 3 &&
-                                   (primeiroNomeEsportivo.startsWith(primeiroNomeGuess) ||
-                                    esportivoWords.some(word => word === normalizedGuess || word.startsWith(normalizedGuess)));
+                                   primeiroNomeEsportivo.startsWith(primeiroNomeGuess);
     
-    // 4. Verifica se o nome_completo contém o palpite E o palpite começa com o primeiro nome do completo
-    // (para evitar aceitar apenas sobrenomes como "Ferreira")
-    const fullNameContainsGuess = normalizedCorrectName.includes(normalizedGuess) &&
-                                  normalizedGuess.length >= 3 &&
-                                  primeiroNomeCompleto.startsWith(primeiroNomeGuess);
-    
-    const isCorrectGuess = matchesEsportivoExact || 
-                           matchesFullNameExact ||
-                           esportivoContainsGuess || 
-                           fullNameContainsGuess;
+    const isCorrectGuess = matchesEsportivoExact || esportivoContainsGuess;
     
     if (isCorrectGuess) {
       setGameState(prev => ({
@@ -195,7 +177,7 @@ const PlayerGame: React.FC<PlayerGameProps> = ({
       }));
       
       if (newAttempts >= 5) {
-        setFeedback(`❌ Que pena! O jogador era: ${jogador.nome_completo}`);
+        setFeedback(`❌ Que pena! O jogador era: ${jogador.nome_esportivo}`);
         setGameState(prev => ({ ...prev, showPlayer: true }));
       } else {
         setFeedback('❌ Tente novamente!');
