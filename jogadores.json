@@ -8720,6 +8720,437 @@
         "clube1": "/times/Karlsruher.svg",
         "clube2": "/times/Bayern_Munique.svg"
       } 
+    },
+    {
+      "jogador_id": 405,
+      "nome_completo": "Rodrigo Caio Coquette Russo",
+      "nome_esportivo": "Rodrigo Caio",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "17/08/1993",
+      "idade": 32,
+      "altura_m": 1.82,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Rodrigo_Caio.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/São_Paulo.png",
+        "clube2": "/times/Flamengo.png",
+        "clube3": "/times/Grêmio.svg"
+      } 
+    },
+    {
+      "jogador_id": 406,
+      "nome_completo": "Alex Nicolao Telles",
+      "nome_esportivo": "Alex Telles",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "15/12/1992",
+      "idade": 32,
+      "altura_m": 1.81,
+      "posicao_principal": "Lateral-esquerdo",
+      "foto_perfil": "/jogadores/Alex_Telles.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Juventude.svg",
+        "clube2": "/times/Grêmio.svg",
+        "clube3": "/times/Galatasaaray.png",
+        "clube4": "/times/Internazionale.svg",
+        "clube5": "/times/Porto.png",
+        "clube6": "/times/Manchester_United.png",
+        "clube7": "/times/Sevilla.png",
+        "clube8": "/times/Al_Nassr.png",
+        "clube9": "/times/Botafogo.png"
+      } 
+    },
+    {
+      "jogador_id": 407,
+      "nome_completo": "Marcos Luís Rocha Aquino",
+      "nome_esportivo": "Marcos Rocha",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "11/12/1988",
+      "idade": 36,
+      "altura_m": 1.78,
+      "posicao_principal": "Lateral-direito",
+      "foto_perfil": "/jogadores/Marcos_Rocha.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Atlético_Mineiro.png",
+        "clube2": "/times/Uberlandia.png",
+        "clube3": "/times/CRB.svg",
+        "clube4": "/times/Ponte_Preta.png",
+        "clube5": "/times/América_MG.png",
+        "clube6": "/times/Atlético_Mineiro.png",
+        "clube7": "/times/Palmeiras.svg",
+        "clube8": "/times/Grêmio.svg"
+      } 
+    },
+    {
+      "jogador_id": 408,
+      "nome_completo": "Maicon Douglas Sisenando",
+      "nome_esportivo": "Maicon",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "26/07/1981",
+      "idade": 44,
+      "altura_m": 1.84,
+      "posicao_principal": "Lateral-direito",
+      "foto_perfil": "/jogadores/Maicon.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Cruzeiro.png",
+        "clube2": "/times/Monaco.png",
+        "clube3": "/times/Internazionale.svg",
+        "clube4": "/times/Manchester_City.png",
+        "clube5": "/times/Roma.png",
+        "clube6": "/times/Avai.svg",
+        "clube7": "/times/Criciúma.svg",
+        "clube8": "/times/Vila_Nova.svg",
+        "clube9": "/times/Tre_Penne.png"
+      } 
+    },
+    {
+      "jogador_id": 409,
+      "nome_completo": "Denis César de Matos",
+      "nome_esportivo": "Denis",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "14/04/1987",
+      "idade": 38,
+      "altura_m": 1.88,
+      "posicao_principal": "Goleiro",
+      "foto_perfil": "/jogadores/Denis.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Ponte_Preta.png",
+        "clube2": "/times/São_Paulo.png",
+        "clube3": "/times/Figueirense.png",
+        "clube4": "/times/Gil_Vicente.png",
+        "clube5": "/times/Aris.png",
+        "clube6": "/times/Sport_Recife.png"
+      } 
+    },
+    {
+      "jogador_id": 410,
+      "nome_completo": "Egídio de Araújo Pereira Júnior",
+      "nome_esportivo": "Egidio",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "14/04/1987",
+      "idade": 38,
+      "altura_m": 1.88,
+      "posicao_principal": "Lateral-esquerdo",
+      "foto_perfil": "/jogadores/Egidio.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Flamengo.png",
+        "clube2": "/times/Paraná.png",
+        "clube3": "/times/Juventude.svg",
+        "clube4": "/times/Figueirense.png",
+        "clube5": "/times/Vitória.png",
+        "clube6": "/times/Ceará.svg",
+        "clube7": "/times/Goiás.svg",
+        "clube8": "/times/Cruzeiro.png",
+        "clube9": "/times/Dnipro.png",
+        "clube10": "/times/Palmeiras.svg",
+        "clube11": "/times/Cruzeiro.png",
+        "clube12": "/times/Fluminense.png",
+        "clube13": "/times/Coritiba.svg",
+        "clube14": "/times/Tombense.png"
+      } 
+    },
+    {
+      "jogador_id": 411,
+      "nome_completo": "Françoaldo Sena de Souza",
+      "nome_esportivo": "França",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "02/03/1976",
+      "idade": 49,
+      "altura_m": 1.83,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/França.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Nacional_Amazonas.png",
+        "clube2": "/times/XV_Jau.png",
+        "clube3": "/times/São_Paulo.png",
+        "clube4": "/times/Bayer_Leverkusen.png",
+        "clube5": "/times/Kashiwa_Reysol.png",
+        "clube6": "/times/Yokohama_FC.png"
+      } 
+    },
+    {
+      "jogador_id": 412,
+      "nome_completo": "Fabrício Bruno Soares de Faria Junior",
+      "nome_esportivo": "Fabricio Bruno",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "12/02/1996",
+      "idade": 29,
+      "altura_m": 1.92,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Fabricio_Bruno.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Cruzeiro.png",
+        "clube2": "/times/Chapecoense.png",
+        "clube3": "/times/Red_Bull_Bragantino.png",
+        "clube4": "/times/Flamengo.png",
+        "clube5": "/times/Cruzeiro.png"
+      } 
+    },
+    {
+      "jogador_id": 413,
+      "nome_completo": "Talles Magno Bacelar Martins",
+      "nome_esportivo": "Talles Magno",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "26/06/2002",
+      "idade": 23,
+      "altura_m": 1.86,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Talles_Magno.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Vasco.png",
+        "clube2": "/times/New_York_City.svg",
+        "clube3": "/times/Corinthians.png"
+      } 
+    },
+    {
+      "jogador_id": 414,
+      "nome_completo": "Andrey Sergeyevich Arshavin",
+      "nome_esportivo": "Arshavin",
+      "nacionalidade": "Rússia",
+      "data_nascimento": "29/05/1981",
+      "idade": 41,
+      "altura_m": 1.72,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Arshavin.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Zenit.png",
+        "clube2": "/times/Arsenal.svg",
+        "clube3": "/times/Kuban_Krasnodar.png",
+        "clube4": "/times/Kairat.png"
+      } 
+    },
+    {
+      "jogador_id": 415,
+      "nome_completo": "Carlos Alberto Torres",
+      "nome_esportivo": "Carlos Alberto Torres",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "17/07/1944",
+      "idade": 72,
+      "altura_m": 1.80,
+      "posicao_principal": "Lateral-direito",
+      "foto_perfil": "/jogadores/Carlos_Alberto_Torres.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Fluminense.png",
+        "clube2": "/times/Santos.png",
+        "clube3": "/times/Botafogo.png",
+        "clube4": "/times/Fluminense.png",
+        "clube5": "/times/Flamengo.png",
+        "clube6": "/times/New_York_Cosmos.png",
+        "clube7": "/times/California_Surf.png",
+        "clube8": "/times/New_York_Cosmos.png"
+      } 
+    },
+    {
+      "jogador_id": 416,
+      "nome_completo": "Jadson Rodrigues da Silva",
+      "nome_esportivo": "Jadson",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "05/10/1983",
+      "idade": 42,
+      "altura_m": 1.69,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Jadson.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Athletico_Paranaense.svg",
+        "clube2": "/times/Shakhtar_Donetsk.png",
+        "clube3": "/times/São_Paulo.png",
+        "clube4": "/times/Corinthians.png",
+        "clube5": "/times/Tianjin_Tianhai.png",
+        "clube6": "/times/Corinthians.png",
+        "clube7": "/times/Athletico_Paranaense.svg",
+        "clube8": "/times/Avai.svg",
+        "clube9": "/times/Vitória.png"
+      } 
+    },
+    {
+      "jogador_id": 417,
+      "nome_completo": "Antônio Carlos Cerezo",
+      "nome_esportivo": "Toninho Cerezo",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "21/04/1955",
+      "idade": 70,
+      "altura_m": 1.83,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Toninho_Cerezo.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Atlético_Mineiro.png",
+        "clube2": "/times/Nacional_Amazonas.png",
+        "clube3": "/times/Roma.png",
+        "clube4": "/times/Sampdoria.png",
+        "clube5": "/times/São_Paulo.png",
+        "clube6": "/times/Cruzeiro.png",
+        "clube7": "/times/Paulista.png",
+        "clube8": "/times/São_Paulo.png",
+        "clube9": "/times/Atlético_Mineiro.png"
+      } 
+    },
+    {
+      "jogador_id": 418,
+      "nome_completo": "Jérôme Agyenim Boateng",
+      "nome_esportivo": "Boateng",
+      "nacionalidade": "Alemanha",
+      "data_nascimento": "03/09/1988",
+      "idade": 37,
+      "altura_m": 1.92,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Boateng.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Hertha_Berlim.svg",
+        "clube2": "/times/Hamburgo.svg",
+        "clube3": "/times/Manchester_City.png",
+        "clube4": "/times/Bayern_Munique.svg",
+        "clube5": "/times/Lyon.png",
+        "clube6": "/times/Salernitana.png",
+        "clube7": "/times/LASK.svg"
+      } 
+    },
+    {
+      "jogador_id": 419,
+      "nome_completo": "Antônio de Oliveira Filho",
+      "nome_esportivo": "Careca",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "05/10/1960",
+      "idade": 65,
+      "altura_m": 1.82,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Careca.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Guarani.svg",
+        "clube2": "/times/São_Paulo.png",
+        "clube3": "/times/Napoli.svg",
+        "clube4": "/times/Kashiwa_Reysol.png",
+        "clube5": "/times/Santos.png",
+        "clube6": "/times/Campinas.png",
+        "clube7": "/times/São_José_RS.png",
+        "clube8": "/times/Campinas.png"
+      } 
+    },
+    {
+      "jogador_id": 420,
+      "nome_completo": "Marcelo Cirino da Silva",
+      "nome_esportivo": "Marcelo Cirino",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "22/01/1992",
+      "idade": 32,
+      "altura_m": 1.82,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Marcelo_Cirino.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Athletico_Paranaense.svg",
+        "clube2": "/times/Vitória.png",
+        "clube3": "/times/Flamengo.png",
+        "clube4": "/times/Internacional.svg",
+        "clube5": "/times/AL_Nasr.png",
+        "clube6": "/times/Athletico_Paranaense.svg",
+        "clube7": "/times/Chongqing_Lifan.png",
+        "clube8": "/times/Bahia.png",
+        "clube9": "/times/Athletico_Paranaense.svg",
+        "clube10": "/times/Operario-PR.png",
+        "clube11": "/times/PSS_Sleman.svg"
+      } 
+    },
+    {
+      "jogador_id": 421,
+      "nome_completo": "Giovanni Augusto Oliveira Cardoso",
+      "nome_esportivo": "Giovanni Augusto",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "05/09/1989",
+      "idade": 36,
+      "altura_m": 1.77,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Giovanni_Augusto.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Atlético_Mineiro.png",
+        "clube2": "/times/Náutico.png",
+        "clube3": "/times/Grêmio_Barueri.png",
+        "clube4": "/times/Goiás.svg",
+        "clube5": "/times/Criciúma.svg",
+        "clube6": "/times/Náutico.png",
+        "clube7": "/times/ABC.svg",
+        "clube8": "/times/Figueirense.png",
+        "clube9": "/times/Corinthians.png",
+        "clube10": "/times/Vasco.png",
+        "clube11": "/times/Goiás.svg",
+        "clube12": "/times/Coritiba.svg",
+        "clube13": "/times/Mazatlán.png",
+        "clube14": "/times/Guarani.svg",
+        "clube15": "/times/Vitória.png",
+        "clube16": "/times/Portuguesa.png",
+        "clube17": "/times/Chapecoense.png"
+      } 
+    },
+    {
+      "jogador_id": 422,
+      "nome_completo": "Alex Sandro Lobo Silva",
+      "nome_esportivo": "Alex Sandro",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "26/01/1991",
+      "idade": 34,
+      "altura_m": 1.79,
+      "posicao_principal": "Lateral-esquerdo",
+      "foto_perfil": "/jogadores/Alex_Sandro.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Athletico_Paranaense.svg",
+        "clube2": "/times/Deportivo_Maldonado.png",
+        "clube3": "/times/Santos.png",
+        "clube4": "/times/Porto.png",
+        "clube5": "/times/Juventus.svg",
+        "clube6": "/times/Flamengo.png"
+      } 
+    },
+    {
+      "jogador_id": 423,
+      "nome_completo": "Jandrei Chitolina Carniel",
+      "nome_esportivo": "Jandrei",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "01/03/1993",
+      "idade": 32,
+      "altura_m": 1.86,
+      "posicao_principal": "Goleiro",
+      "foto_perfil": "/jogadores/Jandrei.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Internacional.svg",
+        "clube2": "/times/Novo_Hamburgo.png",
+        "clube3": "/times/Atlético_Tubarão.png",
+        "clube4": "/times/Chapecoense.png",
+        "clube5": "/times/Genoa.png",
+        "clube6": "/times/Athletico_Paranaense.svg",
+        "clube7": "/times/Santos.png",
+        "clube8": "/times/São_Paulo.png",
+        "clube9": "/times/Juventude.svg"
+      } 
+    },
+    {
+      "jogador_id": 424,
+      "nome_completo": "Cole Jermaine Palmer",
+      "nome_esportivo": "Palmer",
+      "nacionalidade": "Inglaterra",
+      "data_nascimento": "06/05/2002",
+      "idade": 23,
+      "altura_m": 1.89,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Palmer.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Manchester_City.png",
+        "clube2": "/times/Chelsea.svg"
+      } 
+    },
+    {
+      "jogador_id": 425,
+      "nome_completo": "Julian Draxler",
+      "nome_esportivo": "Draxler",
+      "nacionalidade": "Alemanha",
+      "data_nascimento": "20/09/1993",
+      "idade": 32,
+      "altura_m": 1.87,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Draxler.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Schalke_04.svg",
+        "clube2": "/times/Wolfsburg.svg",
+        "clube3": "/times/PSG.png",
+        "clube4": "/times/Benfica.svg",
+        "clube5": "/times/Al_Ahli.png"
+      } 
     }
   ]
 }
