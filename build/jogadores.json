@@ -165,7 +165,8 @@
         "clube2": "/times/Vasco.png",
         "clube3": "/times/Fortaleza.png",
         "clube4": "/times/Shimizu_S-Pulse.png",
-        "clube5": "/times/Fortaleza.png"
+        "clube5": "/times/Fortaleza.png",
+        "clube6": "/times/Remo.svg"
       }
     },
     {
@@ -279,7 +280,8 @@
         "clube5": "/times/Porto.png",
         "clube6": "/times/Zenit.png",
         "clube7": "/times/Shanghai.png",
-        "clube8": "/times/Atlético_Mineiro.png"
+        "clube8": "/times/Atlético_Mineiro.png",
+        "clube9": "/times/Fluminense.png"
       }
     },
     {
@@ -705,7 +707,8 @@
         "clube9": "/times/Olympiakos.png",
         "clube10": "/times/São_Paulo.png",
         "clube11": "/times/Rayo_Vallecano.png",
-        "clube12": "/times/Club_Leon.png"
+        "clube12": "/times/Club_Leon.png",
+        "clube13": "/times/Minnesota_United.png"
       }
     },
     {
@@ -880,7 +883,8 @@
         "clube3": "/times/Benfica.svg",
         "clube4": "/times/Santos.png",
         "clube5": "/times/Flamengo.png",
-        "clube6": "/times/Cruzeiro.png"
+        "clube6": "/times/Cruzeiro.png",
+        "clube7": "/times/Santos.png"
       }
     },
     {
@@ -1081,7 +1085,8 @@
         "clube9": "/times/Alavés.png",
         "clube10": "/times/Cuiabá.png",
         "clube11": "/times/Atlético_Mineiro.png",
-        "clube12": "/times/Fortaleza.png"
+        "clube12": "/times/Fortaleza.png",
+        "clube13": "/times/LDU.png"
       }
     },
     {
@@ -1176,7 +1181,8 @@
         "clube1": "/times/Coritiba.svg",
         "clube2": "/times/Palmeiras.svg",
         "clube3": "/times/Athletico_Paranaense.svg",
-        "clube4": "/times/Palmeiras.svg"
+        "clube4": "/times/Palmeiras.svg",
+        "clube5": "/times/America_México.png"
       }
     },
     {
@@ -1549,7 +1555,8 @@
         "clube3": "/times/Goiás.svg",
         "clube4": "/times/Flamengo.png",
         "clube5": "/times/Al_Hilal.svg",
-        "clube6": "/times/Flamengo.png"
+        "clube6": "/times/Flamengo.png",
+        "clube7": "/times/Al_Ula.svg"
       }
     },
     {
@@ -1640,7 +1647,8 @@
         "clube9": "/times/Junior_Barranquilla.svg",
         "clube10": "/times/Grêmio.svg",
         "clube11": "/times/Junior_Barranquilla.svg",
-        "clube12": "/times/River_Plate.svg"
+        "clube12": "/times/River_Plate.svg",
+        "clube13": "/times/Al_Wasl.png"
       }
     },
     {
@@ -1878,7 +1886,9 @@
         "clube7": "/times/Hoffenheim.svg",
         "clube8": "/times/Tigres.png",
         "clube9": "/times/Atlético_Mineiro.png",
-        "clube10": "/times/Nacional_Uruguai.png"
+        "clube10": "/times/Nacional_Uruguai.png",
+        "clube11": "/times/Audax_Itália.png",
+        "clube12": "/times/Universidad_de_Chile.png"
       }
     },
     {
@@ -1897,7 +1907,8 @@
         "clube3": "/times/Fluminense.png",
         "clube4": "/times/São_Paulo.png",
         "clube5": "/times/Palmeiras.svg",
-        "clube6": "/times/Atlético_Mineiro.png"
+        "clube6": "/times/Atlético_Mineiro.png",
+        "clube7": "/times/Grêmio.svg"
       }
     },
     {
@@ -2476,7 +2487,8 @@
         "clube6": "/times/Athletico_Paranaense.svg",
         "clube7": "/times/São_Paulo.png",
         "clube8": "/times/Athletico_Paranaense.svg",
-        "clube9": "/times/Sport_Recife.png"
+        "clube9": "/times/Sport_Recife.png",
+        "clube10": "/times/Operario-PR.png"
       }
     },
     {
@@ -2715,7 +2727,8 @@
         "clube13": "/times/São_Paulo.png",
         "clube14": "/times/Fluminense.png",
         "clube15": "/times/Vasco.png",
-        "clube16": "/times/Juventude.svg"
+        "clube16": "/times/Juventude.svg",
+        "clube17": "/times/Botafogo_Paraíba.png"
       }
     },
     {
@@ -3279,7 +3292,8 @@
         "clube6": "/times/Milan.png",
         "clube7": "/times/PSG.png",
         "clube8": "/times/Chelsea.svg",
-        "clube9": "/times/Fluminense.png"
+        "clube9": "/times/Fluminense.png",
+        "clube10": "/times/Porto.png"
       } 
     },
     {
@@ -3747,7 +3761,8 @@
         "clube4": "/times/Queretaro.svg",
         "clube5": "/times/São_Paulo.png",
         "clube6": "/times/Toluca.svg",
-        "clube7": "/times/Grêmio.svg"
+        "clube7": "/times/Grêmio.svg",
+        "clube8": "/times/Red_Bull_Bragantino.png"
       } 
     },
     {
@@ -4220,7 +4235,8 @@
         "clube5": "/times/Palmeiras.svg",
         "clube6": "/times/Fortaleza.png",
         "clube7": "/times/Santos.png",
-        "clube8": "/times/Sport_Recife.png"
+        "clube8": "/times/Sport_Recife.png",
+        "clube9": "/times/Goiás.svg"
       } 
     },
     {
@@ -4701,7 +4717,8 @@
         "clube3": "/times/Dynamo_Kiev.svg",
         "clube4": "/times/São_Paulo.png",
         "clube5": "/times/Athletico_Paranaense.svg",
-        "clube6": "/times/Cerezo_Osaka.png"
+        "clube6": "/times/Cerezo_Osaka.png",
+        "clube7": "/times/Remo.svg"
       } 
     },
     {
@@ -5136,7 +5153,8 @@
         "clube2": "/times/Corinthians.png",
         "clube3": "/times/San_Lorenzo.svg",
         "clube4": "/times/Cruz_Azul.svg",
-        "clube5": "/times/Corinthians.png"
+        "clube5": "/times/Corinthians.png",
+        "clube6": "/times/Boca_Juniors.png"
       } 
     },
     {
@@ -5153,7 +5171,8 @@
         "clube1": "/times/Flamengo.png",
         "clube2": "/times/Milan.png",
         "clube3": "/times/Lyon.png",
-        "clube4": "/times/West_Ham.png"
+        "clube4": "/times/West_Ham.png",
+        "clube5": "/times/Flamengo.png"
       } 
     },
     {
@@ -5243,7 +5262,8 @@
         "clube6": "/times/Olympique_Marseille.svg",
         "clube7": "/times/Fenerbahçe.png",
         "clube8": "/times/Al_Nassr.png",
-        "clube9": "/times/São_Paulo.png"
+        "clube9": "/times/São_Paulo.png",
+        "clube10": "/times/Athletico_Paranaense.svg"
       } 
     },
     {
@@ -5475,7 +5495,8 @@
         "clube2": "/times/Caen.svg",
         "clube3": "/times/Leicester.png",
         "clube4": "/times/Chelsea.svg",
-        "clube5": "/times/Al_Ittihad.png"
+        "clube5": "/times/Al_Ittihad.png",
+        "clube6": "/times/Fenerbahçe.png"
       } 
     },
     {
@@ -6006,7 +6027,8 @@
         "clube3": "/times/América_de_Cali.svg",
         "clube4": "/times/Santa_Fé.png",
         "clube5": "/times/Fluminense.png",
-        "clube6": "/times/Wolverhampton.png"
+        "clube6": "/times/Wolverhampton.png",
+        "clube7": "/times/Palmeiras.svg"
       } 
     },
     {
@@ -6088,7 +6110,8 @@
         "clube6": "/times/Boca_Unidos.svg",
         "clube7": "/times/Atletico_Central_Cordoba.png",
         "clube8": "/times/Belgrano.svg",
-        "clube9": "/times/Vasco.png"
+        "clube9": "/times/Vasco.png",
+        "clube10": "/times/Cerro_Porteño.svg"
       } 
     },
     {
@@ -6393,7 +6416,8 @@
         "clube3": "/times/Corinthians.png",
         "clube4": "/times/Sevilla.png",
         "clube5": "/times/Atalanta.png",
-        "clube6": "/times/Atlético_Mineiro.png"
+        "clube6": "/times/Atlético_Mineiro.png",
+        "clube7": "/times/Fluminense.png"
       } 
     },
     {
@@ -6834,7 +6858,8 @@
         "clube3": "/times/Albirex_Niigata.png",
         "clube4": "/times/Athletico_Paranaense.svg",
         "clube5": "/times/Palmeiras.svg",
-        "clube6": "/times/Atlético_Mineiro.png"
+        "clube6": "/times/Atlético_Mineiro.png",
+        "clube7": "/times/Santos.png"
       } 
     },
     {
@@ -6958,7 +6983,8 @@
         "clube12": "/times/Avai.svg",
         "clube13": "/times/Coritiba.svg",
         "clube14": "/times/Avai.svg",
-        "clube15": "/times/CRB.svg"
+        "clube15": "/times/CRB.svg",
+        "clube16": "/times/Ponte_Preta.png"
       } 
     },
     {
@@ -7243,7 +7269,8 @@
         "clube7": "/times/CSA.png",
         "clube8": "/times/Athletic.svg",
         "clube9": "/times/Amazonas.png",
-        "clube10": "/times/Criciúma.svg"
+        "clube10": "/times/Criciúma.svg",
+        "clube11": "/times/Confiança.png"
       } 
     },
     {
@@ -7405,7 +7432,8 @@
         "clube13": "/times/Çaykur_Rizespor.png",
         "clube14": "/times/Swansea.png",
         "clube15": "/times/Criciúma.svg",
-        "clube16": "/times/Cruzeiro.png"
+        "clube16": "/times/Cruzeiro.png",
+        "clube17": "/times/Chapecoense.png"
       } 
     },
     {
@@ -7883,7 +7911,8 @@
         "clube17": "/times/Celta_de_Vigo.png",
         "clube18": "/times/Fortaleza.png",
         "clube19": "/times/Goiás.svg",
-        "clube20": "/times/Santa_Cruz.svg"
+        "clube20": "/times/Santa_Cruz.svg",
+        "clube21": "/times/Feira_FC.png"
       } 
     },
     {
@@ -7905,7 +7934,8 @@
         "clube6": "/times/Grêmio.svg",
         "clube7": "/times/Los_Angeles_Galaxy.svg",
         "clube8": "/times/Fluminense.png",
-        "clube9": "/times/Sydney_FC.png"
+        "clube9": "/times/Sydney_FC.png",
+        "clube10": "/times/Chievo_Verona.png"
       } 
     },
     {
@@ -8138,7 +8168,8 @@
         "clube5": "/times/Botafogo_SP.png",
         "clube6": "/times/Portuguesa.png",
         "clube7": "/times/Athletico_Paranaense.svg",
-        "clube8": "/times/Palmeiras.svg"
+        "clube8": "/times/Palmeiras.svg",
+        "clube9": "/times/Grêmio.svg"
       } 
     },
     {
@@ -8343,7 +8374,8 @@
         "clube1": "/times/Grêmio.svg",
         "clube2": "/times/Botafogo.png",
         "clube3": "/times/Nottingham_Forest.png",
-        "clube4": "/times/Botafogo.png"
+        "clube4": "/times/Botafogo.png",
+        "clube5": "/times/Vasco.png"
       } 
     },
     {
@@ -8521,7 +8553,8 @@
         "clube12": "/times/Grêmio.svg",
         "clube13": "/times/Santos.png",
         "clube14": "/times/Flamengo.png",
-        "clube15": "/times/Fortaleza.png"
+        "clube15": "/times/Fortaleza.png",
+        "clube16": "/times/Vitória.png"
       } 
     },
     {
@@ -8898,7 +8931,8 @@
       "imagens_clubes": {
         "clube1": "/times/Vasco.png",
         "clube2": "/times/New_York_City.svg",
-        "clube3": "/times/Corinthians.png"
+        "clube3": "/times/Corinthians.png",
+        "clube4": "/times/New_York_City.svg"
       } 
     },
     {
@@ -9039,7 +9073,7 @@
         "clube2": "/times/Vitória.png",
         "clube3": "/times/Flamengo.png",
         "clube4": "/times/Internacional.svg",
-        "clube5": "/times/AL_Nasr.png",
+        "clube5": "/times/Al_Nasr.png",
         "clube6": "/times/Athletico_Paranaense.svg",
         "clube7": "/times/Chongqing_Lifan.png",
         "clube8": "/times/Bahia.png",
@@ -9150,6 +9184,167 @@
         "clube3": "/times/PSG.png",
         "clube4": "/times/Benfica.svg",
         "clube5": "/times/Al_Ahli.png"
+      } 
+    },
+    {
+      "jogador_id": 426,
+      "nome_completo": "Roger Machado Marques",
+      "nome_esportivo": "Roger Machado",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "04/03/1975",
+      "idade": 51,
+      "altura_m": 1.76,
+      "posicao_principal": "Lateral-esquerdo",
+      "foto_perfil": "/jogadores/Roger_Machado.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Grêmio.svg",
+        "clube2": "/times/Vissel_Kobe.png",
+        "clube3": "/times/Fluminense.png"
+      } 
+    },
+    {
+      "jogador_id": 427,
+      "nome_completo": "Alan Kardec de Souza Pereira Júnior",
+      "nome_esportivo": "Alan Kardec",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "12/01/1989",
+      "idade": 37,
+      "altura_m": 1.90,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Alan_Kardec.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Vasco.png",
+        "clube2": "/times/Internacional.svg",
+        "clube3": "/times/Benfica.svg",
+        "clube4": "/times/Santos.png",
+        "clube5": "/times/Palmeiras.svg",
+        "clube6": "/times/São_Paulo.png",
+        "clube7": "/times/Chongqing_Lifan.png",
+        "clube8": "/times/Shenzhen.png",
+        "clube9": "/times/Atlético_Mineiro.png",
+        "clube10": "/times/Athletico_Paranaense.svg",
+        "clube11": "/times/Juventude.svg"
+      } 
+    },
+    {
+      "jogador_id": 428,
+      "nome_completo": "Jesse Ellis Lingard",
+      "nome_esportivo": "Lingard",
+      "nacionalidade": "Inglaterra",
+      "data_nascimento": "15/12/1992",
+      "idade": 33,
+      "altura_m": 1.75,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Lingard.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Manchester_United.png",
+        "clube2": "/times/Leicester.png",
+        "clube3": "/times/Birmingham.png",
+        "clube4": "/times/Brighton.png",
+        "clube5": "/times/Derby_County.png",
+        "clube6": "/times/West_Ham.png",
+        "clube7": "/times/Manchester_United.png",
+        "clube8": "/times/Nottingham_Forest.png",
+        "clube9": "/times/Seoul_FC.png",
+        "clube10": "/times/Corinthians.png"
+      } 
+    },
+    {
+      "jogador_id": 429,
+      "nome_completo": "Ânderson Corrêa Polga",
+      "nome_esportivo": "Anderson Polga",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "09/02/1979",
+      "idade": 47,
+      "altura_m": 1.82,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Anderson_Polga.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Grêmio.svg",
+        "clube2": "/times/Sporting.png",
+        "clube3": "/times/Corinthians.png"
+      } 
+    },
+    {
+      "jogador_id": 430,
+      "nome_completo": "Benjamín Rollheiser",
+      "nome_esportivo": "Rollheiser",
+      "nacionalidade": "Argentina",
+      "data_nascimento": "24/03/2000",
+      "idade": 26,
+      "altura_m": 1.75,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Rollheiser.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/River_Plate.svg",
+        "clube2": "/times/Estudiantes.svg",
+        "clube3": "/times/Benfica.svg",
+        "clube4": "/times/Santos.png"
+      } 
+    },
+    {
+      "jogador_id": 431,
+      "nome_completo": "Luciano Batista da Silva Junior",
+      "nome_esportivo": "Luciano Juba",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "29/08/1999",
+      "idade": 26,
+      "altura_m": 1.76,
+      "posicao_principal": "Lateral-esquerdo",
+      "foto_perfil": "/jogadores/Luciano_Juba.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Sport_Recife.png",
+        "clube2": "/times/Confiança.png",
+        "clube3": "/times/Sport_Recife.png",
+        "clube4": "/times/Bahia.png"
+      } 
+    },
+    {
+      "jogador_id": 432,
+      "nome_completo": "Ashley Cole",
+      "nome_esportivo": "Ashley Cole",
+      "nacionalidade": "Inglaterra",
+      "data_nascimento": "20/12/1980",
+      "idade": 45,
+      "altura_m": 1.76,
+      "posicao_principal": "Lateral-esquerdo",
+      "foto_perfil": "/jogadores/Ashley_Cole.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Arsenal.svg",
+        "clube2": "/times/Crystal_Palace.png",
+        "clube3": "/times/Chelsea.svg",
+        "clube4": "/times/Roma.png",
+        "clube5": "/times/Los_Angeles_Galaxy.svg",
+        "clube6": "/times/Derby_County.png"
+      } 
+    },
+    {
+      "jogador_id": 433,
+      "nome_completo": "Luiz Carlos Bombonato Goulart",
+      "nome_esportivo": "Luizão",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "14/11/1975",
+      "idade": 50,
+      "altura_m": 1.78,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Luizao.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Guarani.svg",
+        "clube2": "/times/Paraná.png",
+        "clube3": "/times/Palmeiras.svg",
+        "clube4": "/times/Deportivo_de_La_Coruña.png",
+        "clube5": "/times/Vasco.png",
+        "clube6": "/times/Corinthians.png",
+        "clube7": "/times/Grêmio.svg",
+        "clube8": "/times/Hertha_Berlim.svg",
+        "clube9": "/times/Botafogo.png",
+        "clube10": "/times/São_Paulo.png",
+        "clube11": "/times/Nagoya_Grampus.png",
+        "clube12": "/times/Santos.png",
+        "clube13": "/times/Flamengo.png",
+        "clube14": "/times/São_Caetano.png",
+        "clube15": "/times/Guaratinguetá.png",
+        "clube16": "/times/Rio_Branco.png"
       } 
     }
   ]
