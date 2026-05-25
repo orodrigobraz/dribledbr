@@ -3205,7 +3205,7 @@
       "foto_perfil": "/jogadores/Roque_Junior.jpg",
       "imagens_clubes": {
         "clube1": "/times/Santarritense.png",
-        "clube2": "/times/SJC.png",
+        "clube2": "/times/São_José_dos_Campos.png",
         "clube3": "/times/Palmeiras.svg",
         "clube4": "/times/Milan.png",
         "clube5": "/times/Leeds.png",
@@ -9809,6 +9809,307 @@
         "clube14": "/times/Mirassol.png",
         "clube15": "/times/Avai.svg",
         "clube16": "/times/Sampaio_Corrêa.png"
+      } 
+    },
+    {
+      "jogador_id": 457,
+      "nome_completo": "Carlo Ancelotti",
+      "nome_esportivo": "Ancelotti",
+      "nacionalidade": "Itália",
+      "data_nascimento": "10/06/1959",
+      "idade": 67,
+      "altura_m": 1.79,
+      "posicao_principal": "Volante",
+      "foto_perfil": "/jogadores/Ancelotti.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Parma.png",
+        "clube2": "/times/Roma.png",
+        "clube3": "/times/Milan.png"
+      } 
+    },
+    {
+      "jogador_id": 458,
+      "nome_completo": "Freddy Eusébio Gustavo Rincón Valencia",
+      "nome_esportivo": "Rincon",
+      "nacionalidade": "Colômbia",
+      "data_nascimento": "14/08/1966",
+      "idade": 55,
+      "altura_m": 1.85,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Rincón.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Tolima.svg",
+        "clube2": "/times/Santa_Fé.png",
+        "clube3": "/times/América_de_Cali.svg",
+        "clube4": "/times/Palmeiras.svg",
+        "clube5": "/times/Napoli.svg",
+        "clube6": "/times/Real_Madrid.png",
+        "clube7": "/times/Palmeiras.svg",
+        "clube8": "/times/Corinthians.png",
+        "clube9": "/times/Santos.png",
+        "clube10": "/times/Cruzeiro.png",
+        "clube11": "/times/Corinthians.png"
+      } 
+    },
+    {
+      "jogador_id": 459,
+      "nome_completo": "Fernando Marçal Oliveira",
+      "nome_esportivo": "Marçal",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "19/02/1989",
+      "idade": 37,
+      "altura_m": 1.78,
+      "posicao_principal": "Lateral-esquerdo",
+      "foto_perfil": "/jogadores/Marçal.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Guaratinguetá.png",
+        "clube2": "/times/Torreense.png",
+        "clube3": "/times/Nacional_Madeira.png",
+        "clube4": "/times/Benfica.svg",
+        "clube5": "/times/Gaziantepspor.png",
+        "clube6": "/times/Guingamp.png",
+        "clube7": "/times/Lyon.png",
+        "clube8": "/times/Wolverhampton.png",
+        "clube9": "/times/Botafogo.png"
+      } 
+    },
+    {
+      "jogador_id": 460,
+      "nome_completo": "Jonathan Glao Tah",
+      "nome_esportivo": "Tah",
+      "nacionalidade": "Alemanha",
+      "data_nascimento": "11/02/1996",
+      "idade": 30,
+      "altura_m": 1.95,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Tah.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Hamburgo.svg",
+        "clube2": "/times/Fortuna_Düsseldorf.svg",
+        "clube3": "/times/Bayer_Leverkusen.png",
+        "clube4": "/times/Bayern_Munique.svg"
+      } 
+    },
+    {
+      "jogador_id": 461,
+      "nome_completo": "Aurélien Djani Tchouaméni",
+      "nome_esportivo": "Tchouameni",
+      "nacionalidade": "França",
+      "data_nascimento": "27/01/2000",
+      "idade": 26,
+      "altura_m": 1.87,
+      "posicao_principal": "Volante",
+      "foto_perfil": "/jogadores/Tchouameni.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Bordeaux.png",
+        "clube2": "/times/Monaco.png",
+        "clube3": "/times/Real_Madrid.png"
+      } 
+    },
+    {
+      "jogador_id": 462,
+      "nome_completo": "Bernardo Mota Veiga de Carvalho e Silva",
+      "nome_esportivo": "Bernardo Silva",
+      "nacionalidade": "Portugal",
+      "data_nascimento": "10/08/1994",
+      "idade": 31,
+      "altura_m": 1.73,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Bernardo_Silva.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Benfica.svg",
+        "clube2": "/times/Monaco.png",
+        "clube3": "/times/Manchester_City.png"
+      } 
+    },
+    {
+      "jogador_id": 463,
+      "nome_completo": "Adenor Leonardo Bachi",
+      "nome_esportivo": "Tite",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "25/05/1961",
+      "idade": 65,
+      "altura_m": 1.84,
+      "posicao_principal": "Volante",
+      "foto_perfil": "/jogadores/Tite.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Caxias.svg",
+        "clube2": "/times/Esportivo.svg",
+        "clube3": "/times/Portuguesa.png",
+        "clube4": "/times/Guarani.svg",
+        "clube5": "/times/Esportivo.svg"
+      } 
+    },
+    {
+      "jogador_id": 464,
+      "nome_completo": "Jemmes Bruno Ribeiro da Silva",
+      "nome_esportivo": "Jemmes",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "09/04/2000",
+      "idade": 26,
+      "altura_m": 1.87,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Jemmes.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Taquaritinga.svg",
+        "clube2": "/times/Capivariano.png",
+        "clube3": "/times/União_Suzano.png",
+        "clube4": "/times/Rio_Branco.png",
+        "clube5": "/times/Athletic.svg",
+        "clube6": "/times/Vila_Nova.svg",
+        "clube7": "/times/Mirassol.png",
+        "clube8": "/times/Fluminense.png"
+      } 
+    },
+    {
+      "jogador_id": 465,
+      "nome_completo": "Rodrigo Javier de Paul",
+      "nome_esportivo": "De Paul",
+      "nacionalidade": "Argentina",
+      "data_nascimento": "24/05/1994",
+      "idade": 32,
+      "altura_m": 1.80,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/De_Paul.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Racing.svg",
+        "clube2": "/times/Valencia.png",
+        "clube3": "/times/Racing.svg",
+        "clube4": "/times/Udinese.png",
+        "clube5": "/times/Atletico_Madrid.svg",
+        "clube6": "/times/Inter_Miami.png"
+      } 
+    },
+    {
+      "jogador_id": 466,
+      "nome_completo": "Michel Fernandes Bastos",
+      "nome_esportivo": "Michel Bastos",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "02/08/1983",
+      "idade": 42,
+      "altura_m": 1.79,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Michel_Bastos.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Pelotas.png",
+        "clube2": "/times/Feyenoord.svg",
+        "clube3": "/times/Excelsior_Rotterdam.svg",
+        "clube4": "/times/Athletico_Paranaense.svg",
+        "clube5": "/times/Grêmio.svg",
+        "clube6": "/times/Figueirense.png",
+        "clube7": "/times/Lille.png",
+        "clube8": "/times/Lyon.png",
+        "clube9": "/times/Schalke_04.svg",
+        "clube10": "/times/Al_Ain.png",
+        "clube11": "/times/Roma.png",
+        "clube12": "/times/São_Paulo.png",
+        "clube13": "/times/Palmeiras.svg",
+        "clube14": "/times/Sport_Recife.png",
+        "clube15": "/times/América_MG.png"
+      } 
+    },
+    {
+      "jogador_id": 467,
+      "nome_completo": "Luiz Adriano de Souza da Silva",
+      "nome_esportivo": "Luiz Adriano",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "12/04/1987",
+      "idade": 39,
+      "altura_m": 1.84,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Luiz_Adriano.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Internacional.svg",
+        "clube2": "/times/Shakhtar_Donetsk.png",
+        "clube3": "/times/Milan.png",
+        "clube4": "/times/Spartak_Moscow.png",
+        "clube5": "/times/Palmeiras.svg",
+        "clube6": "/times/Antalyaspor.png",
+        "clube7": "/times/Internacional.svg",
+        "clube8": "/times/Vitória.png"
+      } 
+    },
+    {
+      "jogador_id": 468,
+      "nome_completo": "Dorival Silvestre Júnior",
+      "nome_esportivo": "Dorival Júnior",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "25/04/1962",
+      "idade": 64,
+      "altura_m": 1.86,
+      "posicao_principal": "Volante",
+      "foto_perfil": "/jogadores/Dorival_Júnior.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Ferroviária.png",
+        "clube2": "/times/Marilia.png",
+        "clube3": "/times/Guarani.svg",
+        "clube4": "/times/Avai.svg",
+        "clube5": "/times/Joinville.png",
+        "clube6": "/times/São_José_dos_Campos.png",
+        "clube7": "/times/Coritiba.svg",
+        "clube8": "/times/Palmeiras.svg",
+        "clube9": "/times/Grêmio.svg",
+        "clube10": "/times/Juventude.svg",
+        "clube11": "/times/Matonense.png",
+        "clube12": "/times/Botafogo_SP.png"
+      } 
+    },
+    {
+      "jogador_id": 469,
+      "nome_completo": "Alexis Mac Allister",
+      "nome_esportivo": "Mac Allister",
+      "nacionalidade": "Argentina",
+      "data_nascimento": "24/12/1998",
+      "idade": 27,
+      "altura_m": 1.76,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Mac_Allister.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Argentinos_Juniors.svg",
+        "clube2": "/times/Brighton.png",
+        "clube3": "/times/Argentinos_Juniors.svg",
+        "clube4": "/times/Brighton.png",
+        "clube5": "/times/Boca_Juniors.png",
+        "clube6": "/times/Liverpool.svg"
+      } 
+    },
+    {
+      "jogador_id": 470,
+      "nome_completo": "Jackson Alexander Irvine",
+      "nome_esportivo": "Irvine",
+      "nacionalidade": "Austrália",
+      "data_nascimento": "07/03/1993",
+      "idade": 27,
+      "altura_m": 1.76,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Irvine.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Frankston_Pines.png",
+        "clube2": "/times/Celtic.png",
+        "clube3": "/times/Kilmarnock.png",
+        "clube4": "/times/Ross_County.png",
+        "clube5": "/times/Burton_Albion.png",
+        "clube6": "/times/Hull_City.png",
+        "clube7": "/times/Hibernian.png",
+        "clube8": "/times/St_Pauli.png"
+      } 
+    },
+    {
+      "jogador_id": 471,
+      "nome_completo": "Shaylon Kallyson Cardozo",
+      "nome_esportivo": "Shaylon",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "27/04/1997",
+      "idade": 29,
+      "altura_m": 1.78,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Shaylon.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/São_Paulo.png",
+        "clube2": "/times/Bahia.png",
+        "clube3": "/times/Goiás.svg",
+        "clube4": "/times/Atlético_Goianiense.svg",
+        "clube5": "/times/Mirassol.png"
       } 
     }
   ]
