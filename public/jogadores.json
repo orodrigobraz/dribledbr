@@ -10512,6 +10512,182 @@
         "clube2": "/times/Atlético_Mineiro.png",
         "clube3": "/times/Fluminense.png"
       } 
+    },
+    {
+      "jogador_id": 491,
+      "nome_completo": "Eduardo Gonçalves de Andrade",
+      "nome_esportivo": "Tostão",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "25/01/1947",
+      "idade": 79,
+      "altura_m": 1.72,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Tostão.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/América_MG.png",
+        "clube2": "/times/Cruzeiro.png",
+        "clube3": "/times/Vasco.png"
+      } 
+    },
+    {
+      "jogador_id": 492,
+      "nome_completo": "Michael Akpovie Olise",
+      "nome_esportivo": "Olise",
+      "nacionalidade": "França",
+      "data_nascimento": "12/12/2001",
+      "idade": 24,
+      "altura_m": 1.84,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Olise.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Reading.png",
+        "clube2": "/times/Crystal_Palace.png",
+        "clube3": "/times/Bayern_Munique.svg"
+      } 
+    },
+    {
+      "jogador_id": 493,
+      "nome_completo": "Fernando Camilo Farias",
+      "nome_esportivo": "Camilo",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "09/03/1986",
+      "idade": 40,
+      "altura_m": 1.74,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Camilo.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Marilia.png",
+        "clube2": "/times/Cruzeiro.png",
+        "clube3": "/times/Grêmio_Barueri.png",
+        "clube4": "/times/Santo_André.png",
+        "clube5": "/times/Ceará.svg",
+        "clube6": "/times/América_MG.png",
+        "clube7": "/times/Shanghai_Shenxin.svg",
+        "clube8": "/times/Botafogo_SP.png",
+        "clube9": "/times/Avai.svg",
+        "clube10": "/times/Mirassol.png",
+        "clube11": "/times/Sport_Recife.png",
+        "clube12": "/times/Botafogo_SP.png",
+        "clube13": "/times/Chapecoense.png",
+        "clube14": "/times/Al_Shabab.png",
+        "clube15": "/times/Botafogo.png",
+        "clube16": "/times/Internacional.svg",
+        "clube17": "/times/Chapecoense.png",
+        "clube18": "/times/Mirassol.png",
+        "clube19": "/times/Ponte_Preta.png",
+        "clube20": "/times/Mirassol.png",
+        "clube21": "/times/Remo.svg",
+        "clube22": "/times/Figueirense.png",
+        "clube23": "/times/Botafogo_Paraíba.png",
+        "clube24": "/times/Paulista.png"
+      } 
+    },
+    {
+      "jogador_id": 494,
+      "nome_completo": "Heurelho da Silva Gomes",
+      "nome_esportivo": "Gomes",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "15/02/1981",
+      "idade": 45,
+      "altura_m": 1.91,
+      "posicao_principal": "Goleiro",
+      "foto_perfil": "/jogadores/Gomes.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Cruzeiro.png",
+        "clube2": "/times/PSV.png",
+        "clube3": "/times/Tottenham.png",
+        "clube4": "/times/Hoffenheim.svg",
+        "clube5": "/times/Watford.png",
+        "clube6": "/times/Democrata_de_Sete_Lagoas.svg"
+      } 
+    },
+    {
+      "jogador_id": 495,
+      "nome_completo": "Franz Anton Albert Beckenbauer",
+      "nome_esportivo": "Beckenbauer",
+      "nacionalidade": "Alemanha",
+      "data_nascimento": "11/09/1945",
+      "idade": 78,
+      "altura_m": 1.81,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Beckenbauer.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Bayern_Munique.svg",
+        "clube2": "/times/New_York_Cosmos.png",
+        "clube3": "/times/Hamburgo.svg",
+        "clube4": "/times/New_York_Cosmos.png"
+      } 
+    },
+    {
+      "jogador_id": 496,
+      "nome_completo": "Vincent Jean Mpoy Kompany",
+      "nome_esportivo": "Kompany",
+      "nacionalidade": "Bélgica",
+      "data_nascimento": "10/04/1986",
+      "idade": 40,
+      "altura_m": 1.81,
+      "posicao_principal": "Zagueiro",
+      "foto_perfil": "/jogadores/Kompany.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Anderlecht.png",
+        "clube2": "/times/Hamburgo.svg",
+        "clube3": "/times/Manchester_City.png",
+        "clube4": "/times/Anderlecht.png"
+      } 
+    },
+    {
+      "jogador_id": 497,
+      "nome_completo": "Rodrigo Oliveira de Bittencourt",
+      "nome_esportivo": "Diguinho",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "20/03/1983",
+      "idade": 43,
+      "altura_m": 1.71,
+      "posicao_principal": "Volante",
+      "foto_perfil": "/jogadores/Diguinho.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Mogi_Mirim.svg",
+        "clube2": "/times/Botafogo.png",
+        "clube3": "/times/Fluminense.png",
+        "clube4": "/times/Vasco.png",
+        "clube5": "/times/São_Paulo_RS.svg",
+        "clube6": "/times/Aimoré.png",
+        "clube7": "/times/São_José_RS.png"
+      } 
+    },
+    {
+      "jogador_id": 498,
+      "nome_completo": "Helton da Silva Arruda",
+      "nome_esportivo": "Helton",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "18/05/1978",
+      "idade": 48,
+      "altura_m": 1.89,
+      "posicao_principal": "Goleiro",
+      "foto_perfil": "/jogadores/Helton.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Vasco.png",
+        "clube2": "/times/União_Leiria.png",
+        "clube3": "/times/Porto.png",
+        "clube4": "/times/União_Leiria.png"
+      } 
+    },
+    {
+      "jogador_id": 499,
+      "nome_completo": "Igor Thiago Nascimento Rodrigues",
+      "nome_esportivo": "Igor Thiago",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "26/06/2001",
+      "idade": 24,
+      "altura_m": 1.91,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Igor_Thiago.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Cruzeiro.png",
+        "clube2": "/times/Ludogorets.png",
+        "clube3": "/times/Brugge.png",
+        "clube4": "/times/Brentford.png"
+      } 
     }
   ]
 }

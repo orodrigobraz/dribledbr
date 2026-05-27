@@ -10111,6 +10111,407 @@
         "clube4": "/times/Atlético_Goianiense.svg",
         "clube5": "/times/Mirassol.png"
       } 
+    },
+    {
+      "jogador_id": 472,
+      "nome_completo": "Saúl Ñíguez Esclápez",
+      "nome_esportivo": "Saul",
+      "nacionalidade": "Espanha",
+      "data_nascimento": "21/11/1994",
+      "idade": 31,
+      "altura_m": 1.84,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/Saul.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Atletico_Madrid.svg",
+        "clube2": "/times/Rayo_Vallecano.png",
+        "clube3": "/times/Chelsea.svg",
+        "clube4": "/times/Sevilla.png",
+        "clube5": "/times/Flamengo.png"
+      } 
+    },
+    {
+      "jogador_id": 473,
+      "nome_completo": "Roberto Baggio",
+      "nome_esportivo": "Baggio",
+      "nacionalidade": "Itália",
+      "data_nascimento": "18/02/1967",
+      "idade": 59,
+      "altura_m": 1.74,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Baggio.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Vicenza.svg",
+        "clube2": "/times/Fiorentina.svg",
+        "clube3": "/times/Juventus.svg",
+        "clube4": "/times/Milan.png",
+        "clube5": "/times/Bologna.svg",
+        "clube6": "/times/Internazionale.svg",
+        "clube7": "/times/Brescia.png"
+      } 
+    },
+    {
+      "jogador_id": 474,
+      "nome_completo": "Carlos Miguel dos Santos Pereira",
+      "nome_esportivo": "Carlos Miguel",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "09/10/1998",
+      "idade": 27,
+      "altura_m": 2.04,
+      "posicao_principal": "Goleiro",
+      "foto_perfil": "/jogadores/Carlos_Miguel.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Boa_Esporte.svg",
+        "clube2": "/times/Corinthians.png",
+        "clube3": "/times/Nottingham_Forest.png",
+        "clube4": "/times/Palmeiras.svg"
+      } 
+    },
+    {
+      "jogador_id": 475,
+      "nome_completo": "Marc Cucurella Saseta",
+      "nome_esportivo": "Cucurella",
+      "nacionalidade": "Espanha",
+      "data_nascimento": "22/07/1998",
+      "idade": 27,
+      "altura_m": 1.72,
+      "posicao_principal": "Lateral-esquerdo",
+      "foto_perfil": "/jogadores/Cucurella.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Barcelona.svg",
+        "clube2": "/times/Eibar.png",
+        "clube3": "/times/Getafe.png",
+        "clube4": "/times/Brighton.png",
+        "clube5": "/times/Chelsea.svg"
+      } 
+    },
+    {
+      "jogador_id": 476,
+      "nome_completo": "Jobson Leandro Pereira de Oliveira",
+      "nome_esportivo": "Jobson",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "15/02/1988",
+      "idade": 38,
+      "altura_m": 1.75,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Jobson.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Brasiliense.png",
+        "clube2": "/times/Santa_Maria.gif",
+        "clube3": "/times/Jeju_United.png",
+        "clube4": "/times/Botafogo.png",
+        "clube5": "/times/Atlético_Mineiro.png",
+        "clube6": "/times/Bahia.png",
+        "clube7": "/times/Grêmio_Barueri.png",
+        "clube8": "/times/São_Caetano.png",
+        "clube9": "/times/Al_Ittihad.png",
+        "clube10": "/times/Brasiliense.png",
+        "clube11": "/times/Capital.png",
+        "clube12": "/times/Portuguesa_RJ.png",
+        "clube13": "/times/Independente_de_Tucuruí.png",
+        "clube14": "/times/Campinense.png",
+        "clube15": "/times/Luziânia.png",
+        "clube16": "/times/União_Cacoalense.png",
+        "clube17": "/times/Capixaba.png",
+        "clube18": "/times/Lagoa_Seca.png",
+        "clube19": "/times/Santo_Ângelo.png",
+        "clube20": "/times/Rio_Branco.png",
+        "clube21": "/times/Capixaba.png"
+      } 
+    },
+    {
+      "jogador_id": 477,
+      "nome_completo": "João Pedro Gonçalves Neves",
+      "nome_esportivo": "João Neves",
+      "nacionalidade": "Portugal",
+      "data_nascimento": "27/09/2004",
+      "idade": 21,
+      "altura_m": 1.74,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/João_Neves.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Benfica.svg",
+        "clube2": "/times/PSG.png"
+      } 
+    },
+    {
+      "jogador_id": 478,
+      "nome_completo": "Cláudio Ibrahim Vaz Leal",
+      "nome_esportivo": "Branco",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "04/02/1964",
+      "idade": 62,
+      "altura_m": 1.80,
+      "posicao_principal": "Lateral-esquerdo",
+      "foto_perfil": "/jogadores/Branco.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Fluminense.png",
+        "clube2": "/times/Brescia.png",
+        "clube3": "/times/Porto.png",
+        "clube4": "/times/Genoa.png",
+        "clube5": "/times/Grêmio.svg",
+        "clube6": "/times/Fluminense.png",
+        "clube7": "/times/Corinthians.png",
+        "clube8": "/times/Flamengo.png",
+        "clube9": "/times/Internacional.svg",
+        "clube10": "/times/Middlesbrough.png",
+        "clube11": "/times/Red_Bull_New_York.png",
+        "clube12": "/times/Mogi_Mirim.svg",
+        "clube13": "/times/Fluminense.png"
+      } 
+    },
+    {
+      "jogador_id": 479,
+      "nome_completo": "Martín Palermo",
+      "nome_esportivo": "Palermo",
+      "nacionalidade": "Argentina",
+      "data_nascimento": "07/11/1973",
+      "idade": 52,
+      "altura_m": 1.88,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Palermo.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Estudiantes.svg",
+        "clube2": "/times/Boca_Juniors.png",
+        "clube3": "/times/Villarreal.svg",
+        "clube4": "/times/Betis.png",
+        "clube5": "/times/Alavés.png",
+        "clube6": "/times/Boca_Juniors.png"
+      } 
+    },
+    {
+      "jogador_id": 480,
+      "nome_completo": "Alexandre da Silva Mariano",
+      "nome_esportivo": "Amaral",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "28/02/1973",
+      "idade": 53,
+      "altura_m": 1.70,
+      "posicao_principal": "Volante",
+      "foto_perfil": "/jogadores/Amaral.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Palmeiras.svg",
+        "clube2": "/times/Parma.png",
+        "clube3": "/times/Benfica.svg",
+        "clube4": "/times/Palmeiras.svg",
+        "clube5": "/times/Benfica.svg",
+        "clube6": "/times/Corinthians.png",
+        "clube7": "/times/Vasco.png",
+        "clube8": "/times/Fiorentina.svg",
+        "clube9": "/times/Besiktas.svg",
+        "clube10": "/times/Grêmio.svg",
+        "clube11": "/times/Al_Ittihad.png",
+        "clube12": "/times/Vitória.png",
+        "clube13": "/times/Atlético_Mineiro.png",
+        "clube14": "/times/Pogon_Szczecin.png",
+        "clube15": "/times/Santa_Cruz.svg",
+        "clube16": "/times/Grêmio_Barueri.png",
+        "clube17": "/times/Perth_Glory.png",
+        "clube18": "/times/Catanduvense.png",
+        "clube19": "/times/Manado_United.png",
+        "clube20": "/times/Persebaya_Surabaya.png",
+        "clube21": "/times/Poços_de_Caldas.png",
+        "clube22": "/times/Itumbiara.png",
+        "clube23": "/times/Capivariano.png"
+      } 
+    },
+    {
+      "jogador_id": 481,
+      "nome_completo": "Mathieu Pierre Flamini",
+      "nome_esportivo": "Flamini",
+      "nacionalidade": "França",
+      "data_nascimento": "07/03/1984",
+      "idade": 42,
+      "altura_m": 1.78,
+      "posicao_principal": "Volante",
+      "foto_perfil": "/jogadores/Flamini.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Olympique_Marseille.svg",
+        "clube2": "/times/Arsenal.svg",
+        "clube3": "/times/Milan.png",
+        "clube4": "/times/Arsenal.svg",
+        "clube5": "/times/Crystal_Palace.png",
+        "clube6": "/times/Getafe.png"
+      } 
+    },
+    {
+      "jogador_id": 482,
+      "nome_completo": "Guillermo Varela Olivera",
+      "nome_esportivo": "Varela",
+      "nacionalidade": "Uruguai",
+      "data_nascimento": "24/03/1993",
+      "idade": 32,
+      "altura_m": 1.73,
+      "posicao_principal": "Lateral-direito",
+      "foto_perfil": "/jogadores/Varela.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Peñarol.svg",
+        "clube2": "/times/Manchester_United.png",
+        "clube3": "/times/Real_Madrid.png",
+        "clube4": "/times/Eintracht_Frankfurt.svg",
+        "clube5": "/times/Peñarol.svg",
+        "clube6": "/times/København.png",
+        "clube7": "/times/Dynamo_Moscow.png",
+        "clube8": "/times/Flamengo.png"
+      } 
+    },
+    {
+      "jogador_id": 483,
+      "nome_completo": "Esteban Matías Cambiasso Deleau",
+      "nome_esportivo": "Cambiasso",
+      "nacionalidade": "Argentina",
+      "data_nascimento": "18/08/1980",
+      "idade": 45,
+      "altura_m": 1.77,
+      "posicao_principal": "Lateral-esquerdo",
+      "foto_perfil": "/jogadores/Cambiasso.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Real_Madrid.png",
+        "clube2": "/times/Independiente.svg",
+        "clube3": "/times/River_Plate.svg",
+        "clube4": "/times/Real_Madrid.png",
+        "clube5": "/times/Internazionale.svg",
+        "clube6": "/times/Leicester.png",
+        "clube7": "/times/Olympiakos.png"
+      } 
+    },
+    {
+      "jogador_id": 484,
+      "nome_completo": "Wellington Silva Sanches Aguiar",
+      "nome_esportivo": "Wellington Nem",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "06/02/1992",
+      "idade": 34,
+      "altura_m": 1.65,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Wellington_Nem.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Fluminense.png",
+        "clube2": "/times/Figueirense.png",
+        "clube3": "/times/Fluminense.png",
+        "clube4": "/times/Shakhtar_Donetsk.png",
+        "clube5": "/times/São_Paulo.png",
+        "clube6": "/times/Fluminense.png",
+        "clube7": "/times/Fortaleza.png",
+        "clube8": "/times/Cruzeiro.png",
+        "clube9": "/times/Arouca.png",
+        "clube10": "/times/Vitória.png",
+        "clube11": "/times/Kisvárda.png",
+        "clube12": "/times/Becamex.svg",
+        "clube13": "/times/Figueirense.png"
+      } 
+    },
+    {
+      "jogador_id": 485,
+      "nome_completo": "Dennis Nicolaas Maria Bergkamp",
+      "nome_esportivo": "Bergkamp",
+      "nacionalidade": "Holanda",
+      "data_nascimento": "10/05/1969",
+      "idade": 57,
+      "altura_m": 1.83,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Bergkamp.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Ajax.png",
+        "clube2": "/times/Internazionale.svg",
+        "clube3": "/times/Arsenal.svg"
+      } 
+    },
+    {
+      "jogador_id": 486,
+      "nome_completo": "Jérémy Doku",
+      "nome_esportivo": "Doku",
+      "nacionalidade": "Bélgica",
+      "data_nascimento": "27/05/2002",
+      "idade": 24,
+      "altura_m": 1.73,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Doku.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Anderlecht.png",
+        "clube2": "/times/Rennes.png",
+        "clube3": "/times/Manchester_City.png"
+      } 
+    },
+    {
+      "jogador_id": 487,
+      "nome_completo": "Christian Vieri",
+      "nome_esportivo": "Vieri",
+      "nacionalidade": "Itália",
+      "data_nascimento": "12/06/1973",
+      "idade": 52,
+      "altura_m": 1.85,
+      "posicao_principal": "Atacante",
+      "foto_perfil": "/jogadores/Vieri.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Torino.png",
+        "clube2": "/times/Pisa.svg",
+        "clube3": "/times/Ravenna.png",
+        "clube4": "/times/Venezia.svg",
+        "clube5": "/times/Atalanta.png",
+        "clube6": "/times/Juventus.svg",
+        "clube7": "/times/Atletico_Madrid.svg",
+        "clube8": "/times/Lazio.png",
+        "clube9": "/times/Internazionale.svg",
+        "clube10": "/times/Milan.png",
+        "clube11": "/times/Monaco.png",
+        "clube12": "/times/Sampdoria.png",
+        "clube13": "/times/Atalanta.png",
+        "clube14": "/times/Fiorentina.svg",
+        "clube15": "/times/Atalanta.png"
+      } 
+    },
+    {
+      "jogador_id": 488,
+      "nome_completo": "Scott Francis McTominay",
+      "nome_esportivo": "McTominay",
+      "nacionalidade": "Escócia",
+      "data_nascimento": "08/12/1996",
+      "idade": 29,
+      "altura_m": 1.93,
+      "posicao_principal": "Meio-campo",
+      "foto_perfil": "/jogadores/McTominay.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Manchester_United.png",
+        "clube2": "/times/Napoli.svg"
+      } 
+    },
+    {
+      "jogador_id": 489,
+      "nome_completo": "Gnégnéri Yaya Touré",
+      "nome_esportivo": "Yaya Touré",
+      "nacionalidade": "Costa do Marfim",
+      "data_nascimento": "13/05/1983",
+      "idade": 43,
+      "altura_m": 1.88,
+      "posicao_principal": "Volante",
+      "foto_perfil": "/jogadores/Yaya_Touré.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Beveren.png",
+        "clube2": "/times/Metalurh.png",
+        "clube3": "/times/Olympiakos.png",
+        "clube4": "/times/Monaco.png",
+        "clube5": "/times/Barcelona.svg",
+        "clube6": "/times/Manchester_City.png",
+        "clube7": "/times/Olympiakos.png",
+        "clube8": "/times/Qingdao_Huanghai.svg"
+      } 
+    },
+    {
+      "jogador_id": 490,
+      "nome_completo": "Cláudio Rodrigues Gomes",
+      "nome_esportivo": "Guga",
+      "nacionalidade": "Brasil",
+      "data_nascimento": "29/08/1998",
+      "idade": 27,
+      "altura_m": 1.73,
+      "posicao_principal": "Lateral-direito",
+      "foto_perfil": "/jogadores/Guga.jpg",
+      "imagens_clubes": {
+        "clube1": "/times/Avai.svg",
+        "clube2": "/times/Atlético_Mineiro.png",
+        "clube3": "/times/Fluminense.png"
+      } 
     }
   ]
 }
